@@ -1,10 +1,12 @@
 ## Olá! Eu sou o Renato Gomes 👋
-
 Sou Desenvolverdor Full Stack! Gosto muito de tecnologia, adoro por a mão na massa, sou uma pessoa bem curiosa e gosto muito de saber como as coisas funcionam e aprender como se faz. Com a web não foi diferente, então fui atrás de saber como funcionava e me deparei com o mundo da programação. Foi difícil no começo, mas continuo evoluindo dia após dia.
 
-[Meu portifólio](https://renatogomesf.github.io/Portifolio-Profissional/)
+### Aqui você encontra
+* **[Meu portifólio](https://renatogomesf.github.io/Portifolio-Profissional/)**
+* Meus projetos
+* E repositórios de estudo
 
-## Tecnologias que uso
+## Tecnologias e ferramentas que uso
 <div style="display: inline_block"><br>
   <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img align="center" alt="react" height="30" width="30" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" />
