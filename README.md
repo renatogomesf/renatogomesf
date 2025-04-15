@@ -9,6 +9,7 @@ Sou Desenvolverdor Full Stack! Gosto muito de tecnologia, adoro por a mão na ma
 ## Tecnologias e ferramentas que uso
 <div style="display: inline_block"><br>
   <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="center" alt="next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />        
   <img align="center" alt="cypress" height="30" width="30" src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" />
   <img align="center" alt="styled component" height="30" width="30" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" />
   <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
